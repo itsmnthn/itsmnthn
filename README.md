@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![itsmnthn's Github Stats](https://github-readme-stats.vercel.app/api?username=itsmnthn&count_private=true&show_icons=true&theme=dark)
+
 <!--
 **itsmnthn/itsmnthn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
